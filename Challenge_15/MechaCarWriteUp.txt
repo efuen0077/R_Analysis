@@ -6,8 +6,7 @@ are: "Vehicle Length" (Pr(>|t|) = 2.60e-12) and "Ground Clearance" (Pr(>|t|) = 6
 
 2) The slope of the linear model is NOT zero because the mpg is not the same at all times when taking all variables into account.
 
-3) Does this linear model predict mpg of MechCar prototypes effectively? Why or why not?
-This linear model predicts mpg of MechaCar prototypes effectively because
+3) This linear model predicts mpg of MechaCar prototypes effectively because r-squared value of this multiple linear regression model is 0.7149 or r-squared = 0.71. About 71% of all mpg predictions are going to be correct.
 
 
 ***SUSPENSION COIL SUMMARY***
