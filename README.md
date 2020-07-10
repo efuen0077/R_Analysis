@@ -5,6 +5,8 @@ Files are in "Challenge_15" folder.
 
 [MechaCarWriteUp.txt](https://github.com/efuen0077/R_Analysis/files/4901492/MechaCarWriteUp.txt)
 
+[MechaCarChallenge01.R.zip](https://github.com/efuen0077/R_Analysis/files/4901497/MechaCarChallenge01.R.zip)
+
 ### MPG Regression
 
 1) The variables/coefficient that provided a non-random amount of variance to the mpg value in the dataset
