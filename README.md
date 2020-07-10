@@ -35,3 +35,12 @@ are: "Vehicle Length" (Pr(>|t|) = 2.60e-12) and "Ground Clearance" (Pr(>|t|) = 6
 ---p-value = 0.06028
 ---t = -1.8931
 ---mean of x = 1498.78
+
+***DESIGN YOUR OWN STUDY***
+1) Gather quantifiable data on cars according to manufacturer.
+2) Within each brand, make sure that the vehicle data is split into sections:
+     -Sedan
+     -SUV
+     -Truck
+3) Compare fuel efficiency across brands and vehicle types.
+4) Determine which hypothesis satisfies the question at hand.
