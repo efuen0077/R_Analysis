@@ -2,7 +2,7 @@
 
 ## Challenge
 Files are in "Challenge_15" folder.
-
+[MechaCarWriteUp.txt](https://github.com/efuen0077/R_Analysis/files/4901492/MechaCarWriteUp.txt)
 
 ### MPG Regression
 
